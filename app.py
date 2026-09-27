@@ -7,6 +7,7 @@ def home():
     return """
     <h1>DevOps Flask App</h1>
     <p>Deployed using Jenkins + Docker</p>
+    <p>this is the manually edited 1st line</p>
     """
 
 if __name__ == "__main__":
